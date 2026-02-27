@@ -1,0 +1,19 @@
+/* ===== RESET PROFESIONAL ===== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", "Segoe UI", sans-serif;
+}
+
+/* ===== BODY ===== */
+body {
+  background: #0f172a;
+  color: #f1f5f9;
+  min-height: 100vh;
+}
+
+/* ===== ROOT ===== */
+#root {
+  min-height: 100vh;
+}
